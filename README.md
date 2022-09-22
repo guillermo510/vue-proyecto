@@ -1,29 +1,8 @@
 # vue-proyecto
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+Es posible utilizar el proyecto desde: guillermo-vue-proyecto.web.app
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
+Para iniciar el proyecto de manera local es necesario que (una vez descargado) se dirija a una terminal (que apunte a la carpeta del proyecto) y ejecute los siguientes comandos:
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
